@@ -195,7 +195,7 @@
              videobufcnt="9"
              maxpreviewwidth="1280" maxpreviewheight="720"
              horviewangle="50"   verviewangle="50"
-             productname="lt02wifi"/>
+             productname="lt023g"/>
          <PreviewConfig>
              <PreviewFormat format="yuv420sp"/>
              <PreviewFormat format="yuv420p"/>
@@ -228,7 +228,7 @@
              videobufcnt="9"
              maxpreviewwidth="1280" maxpreviewheight="720"
              horviewangle="50"   verviewangle="50"
-             productname="lt02wifi"/>
+             productname="lt023g"/>
          <PreviewConfig>
              <PreviewFormat format="yuv420sp"/>
              <PreviewFormat format="yuv420p"/>
